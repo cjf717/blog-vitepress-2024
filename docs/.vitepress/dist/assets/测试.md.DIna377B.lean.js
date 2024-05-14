@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t,a1 as o}from"./chunks/framework.CnMM-XSm.js";const f=JSON.parse('{"title":"测试标题","description":"","frontmatter":{},"headers":[],"relativePath":"测试.md","filePath":"测试.md"}'),r={name:"测试.md"},i=o("",5),l=[i];function _(n,s,c,d,h,u){return t(),e("div",null,l)}const p=a(r,[["render",_]]);export{f as __pageData,p as default};
